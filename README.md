@@ -1,3 +1,3 @@
 # TCC1
 
-Raspberry Pi object identification using tensorflow.
+Raspberry Pi object identification using tensorflow lite.
